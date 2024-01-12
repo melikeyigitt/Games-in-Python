@@ -39,6 +39,3 @@ Contributions to this project are welcome! Here are a few ways you can help:
 - Improve existing games by enhancing performance, adding new features, or fixing bugs.
 
 To contribute, please fork the repository and submit a pull request.
-
-## Contact
-For any further queries or suggestions, feel free to contact me at [Your Contact Inform
